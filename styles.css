@@ -162,7 +162,7 @@ body {
 
 /* Hero Section - WWF-style layout */
 .hero {
-  background-image: url("679370.jpg");
+  background-image: url("./679370.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -437,3 +437,4 @@ html {
     border-bottom: 2px solid var(--primary-orange);
 
 }
+
